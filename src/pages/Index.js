@@ -5,16 +5,14 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-    + 'co-founder and CTO of Arthena, and YC Alumni.'}
+    description={"Kevin's Website"}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Hello, World</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            Not sure what this is yet, but it&apos;s definitely not the bees knees.
           </p>
         </div>
       </header>
@@ -22,7 +20,7 @@ const Index = () => (
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
+        view <Link to="/stories">stories</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://https://github.com/kevincolour/Personal-Website-React">here</a>.</p>
