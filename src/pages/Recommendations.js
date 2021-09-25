@@ -6,7 +6,7 @@ import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
 // uses babel to load contents of file
-const markdown = raw('../data/recommendations/Recommendations.md');
+const markdown = raw('../data/recommendations/recommendations.md');
 
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
