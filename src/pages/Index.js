@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import WordGenerator from '../components/Contact/WordGenerator';
 
 const Index = () => (
   <Main
@@ -12,18 +13,16 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Hello, World</Link></h2>
           <p>
-            Not sure what this is yet, but it&apos;s definitely not the bees knees.
+            Not sure what this is yet, but it&apos;s definitely not <WordGenerator />
           </p>
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stories">stories</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        <Link to="/resume">resume</Link>, {' or '}
+        <Link to="/Recommendations"> recommendations </Link>
       </p>
-      <p> Source available <a href="https://https://github.com/kevincolour/Personal-Website-React">here</a>.</p>
+
     </article>
   </Main>
 );
