@@ -11,7 +11,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Hello, World</Link></h2>
+          <h2 data-testid="heading"><Link to="/">Hello</Link></h2>
           <p>
             Not sure what this is yet, but it&apos;s definitely not <WordGenerator />
           </p>
