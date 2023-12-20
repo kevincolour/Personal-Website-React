@@ -15,8 +15,6 @@ I'm just trying to sort the grey from the blacks, finding the perfect smiley fac
 
 truth and sanity. I dream of light in the night, of gentle breezes in the cold. To dream is to want and to want is to exist.
 
-# Fun facts
 
-Fun facts are reservered for (emotionally)paying subscribers(friends). If you feel as though you have earned this honour, take a long look in the mirror and wonder what other lies you keep telling yourself, and which of your life choices have led you to this very moment where you desperatly cling on to your tears in horrid disgrace
 
 
