@@ -1,7 +1,7 @@
 
 # Intro
 
-It's not everyday I get to talk about myself. In fact, it's today.
+It's not everyday I get to talk about myself. In fact, it's today. 
 
 # Some history
 
